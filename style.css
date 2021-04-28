@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.maindiv {
+  width: 1024px;
+  margin: auto;
+}
+
+.menu {
+  text-align: center;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu a {
+  background: #dddddd;
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.baner {
+  width: 980px;
+  background: #f6f6f6;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.baner h2 {
+  color: #a52a2a;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.baner p {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
+
+.container {
+  margin-top: 40px;
+  clear: both;
+}
+
+.container .divin {
+  width: 574px;
+  float: right;
+}
+
+.container .divin h2 {
+  background: #dddddd;
+  padding-left: 160px;
+}
+
+.container .divin h3 {
+  color: #a52a2a;
+  padding-left: 160px;
+}
+
+.container .divin p, .container .divin h4, .container .divin ul {
+  padding-left: 160px;
+}
+
+.container .sr {
+  float: right;
+  border: 1px solid black;
+  background: #dddddd;
+  padding: 10px;
+  -webkit-transform: translate(-434px, -2px);
+          transform: translate(-434px, -2px);
+}
+
+.container .bd {
+  background: #dddddd;
+  float: left;
+  text-align: center;
+  width: 290px;
+  margin-top: 59px;
+  padding: 15px;
+  margin-left: 5px;
+  margin-left: 5px;
+}
+
+.container .div2 {
+  margin-left: 24px;
+}
+
+.container .div3 {
+  margin-top: 10px;
+  margin-left: 24px;
+}
+
+.foter {
+  border-top: 2px solid black;
+  background: #dddddd;
+  margin-top: 193px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+/*# sourceMappingURL=style.css.map */
